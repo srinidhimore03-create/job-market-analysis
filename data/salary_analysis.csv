@@ -1,0 +1,41 @@
+title,Job_Count,Average_Min_Salary,Average_Max_Salary,Average_Salary_Midpoint
+Lead Research Scientist,8,227500.0,303187.5,265343.75
+Lead Machine Learning Engineer,27,218888.89,291944.44,255416.67
+Staff Research Scientist,7,198285.71,264357.14,231321.43
+Staff Machine Learning Engineer,22,196704.55,262272.73,229488.64
+Lead Data Platform Engineer,15,183100.0,244100.0,213600.0
+Lead Data Scientist,25,178200.0,237620.0,207910.0
+Staff Data Scientist,37,176243.24,235027.03,205635.14
+Lead Data Engineer,42,173285.71,231119.05,202202.38
+Staff Data Platform Engineer,22,170500.0,227295.45,198897.73
+Staff Data Engineer,46,150706.52,200934.78,175820.65
+Lead Analytics Engineer,18,150611.11,200777.78,175694.44
+Senior Research Scientist,18,149583.33,199416.67,174500.0
+Senior Machine Learning Engineer,59,146576.27,195440.68,171008.47
+Staff Analytics Engineer,44,144034.09,192068.18,168051.14
+Senior Data Scientist,139,138726.62,185010.79,161868.71
+Senior Data Platform Engineer,36,131541.67,175319.44,153430.56
+Research Scientist,30,130716.67,174266.67,152491.67
+Senior Data Engineer,168,124901.79,166532.74,145717.26
+Lead Data Analyst,42,121119.05,161488.1,141303.57
+Machine Learning Engineer,81,115543.21,154086.42,134814.81
+Senior Analytics Engineer,112,113964.29,151946.43,132955.36
+Data Platform Engineer,60,111500.0,148658.33,130079.17
+Staff Data Analyst,66,103712.12,138257.58,120984.85
+Lead BI Developer,12,103250.0,137583.33,120416.67
+Data Scientist,142,100355.63,133795.77,117075.7
+Junior Research Scientist,15,99733.33,132900.0,116316.67
+Staff BI Developer,26,98403.85,131211.54,114807.69
+Data Engineer,198,97250.0,129633.84,113441.92
+Senior BI Developer,67,94567.16,126097.01,110332.09
+Junior Machine Learning Engineer,50,93970.0,125290.0,109630.0
+Analytics Engineer,105,88147.62,117523.81,102835.71
+Senior Data Analyst,216,85701.39,114259.26,99980.32
+Junior Data Platform Engineer,33,77212.12,102969.7,90090.91
+Junior Data Engineer,101,75752.48,100985.15,88368.81
+Junior Data Scientist,86,75273.26,100412.79,87843.02
+BI Developer,66,71500.0,95310.61,83405.3
+Junior Analytics Engineer,71,70063.38,93366.2,81714.79
+Data Analyst,241,67587.14,90141.08,78864.11
+Junior BI Developer,40,53162.5,70925.0,62043.75
+Junior Data Analyst,145,51544.83,68706.9,60125.86

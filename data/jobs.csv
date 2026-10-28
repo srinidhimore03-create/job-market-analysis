@@ -1,0 +1,11 @@
+Job_Title,Company,Location,Required_Skills,Experience_Years,Salary_LPA
+Data Analyst,ABC Technologies,Bengaluru,"SQL,Excel,Python,Power BI",1,5.0
+Data Scientist,XYZ Solutions,Hyderabad,"Python,SQL,Machine Learning,Statistics",2,8.0
+Business Analyst,ABC Technologies,Bengaluru,"Excel,SQL,Power BI,Communication",2,6.0
+Data Analyst,DataWorks,Hyderabad,"Python,SQL,Excel,Tableau",1,4.5
+Data Scientist,TechVision,Pune,"Python,Machine Learning,Statistics,Deep Learning",3,10.0
+Business Analyst,NextGen Systems,Chennai,"Excel,SQL,Communication,Power BI",3,7.0
+Data Analyst,Future Analytics,Bengaluru,"SQL,Python,Power BI,Statistics",2,6.0
+Data Scientist,SmartData,Hyderabad,"Python,Machine Learning,SQL,Statistics",2,9.0
+Business Analyst,Insight Corp,Pune,"Excel,SQL,Tableau,Communication",1,5.5
+Data Analyst,CloudTech,Chennai,"Python,Excel,SQL,Tableau",3,7.5
